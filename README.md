@@ -7,4 +7,4 @@
 dev-jsarje/dev-jsarje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-🏛 - Currently working as a Cloud Security and DevOps engineer
+- 🏛 Currently working as a Cloud Security and DevOps engineer
